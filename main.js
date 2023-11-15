@@ -1,4 +1,4 @@
-import DragAndDrop from 'ol/interaction/DragAndDrop.js';
+import DragAndDrop from '/ol/interaction/DragAndDrop.js';
 import Map from 'ol/Map.js';
 import View from 'ol/View.js';
 import {GPX, GeoJSON, IGC, KML, TopoJSON} from 'ol/format.js';
